@@ -14,4 +14,6 @@ alfadi.com
 
 > > hola
 
-``` hola como estan `` las comillas ```
+> ``` hola como estan `` las comillas ```
+
+*hola es en cursiva*
