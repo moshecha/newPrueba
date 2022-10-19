@@ -21,3 +21,5 @@ alfadi.com
 **muy** entusiasmado *asi*
 
 > hello wwwwwww
+
+> Hola. Éste es un párrafo de texto incluido en un bloque de cita. Fíjate que tengo una sangría con respecto al margen izquierdo.
