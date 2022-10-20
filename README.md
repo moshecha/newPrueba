@@ -35,4 +35,4 @@ Integrantes del equipo:
 - Mi nombre es Nicolás Benedetti
   - Tengo 31 años y soy ingeniero mecánico. Trabajo como ingeniero de diseño de equipos mecánicos en Techint. Disfruto de la música, el deporte y pasar tiempo con mi familia.
 
-![esta es la imagen](https://www.figma.com/file/HYI7WKGyxuvuJsVl9TA7ac/proyecto?node-id=0%3A1)
+![esta es la imagen](https://www.figma.com/file/HYI7WKGyxuvuJsVl9TA7ac/proyecto?node-id=0%3A1](https://www.figma.com/file/HYI7WKGyxuvuJsVl9TA7ac/proyecto?node-id=0%3A1)
